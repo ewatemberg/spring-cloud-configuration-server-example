@@ -10,5 +10,5 @@ Para dar solución a este problema contamos con la ayuda del ecosistema Spring C
 * [Servicio Gateway Zuul](https://github.com/ewatemberg/zuul-gateway-server)
 * [Microservicio Echo](https://github.com/ewatemberg/eureka-client-microservice)
 
-###### Fuente:
+#### Fuente:
 [Miguel Doctor Yuste](https://medium.com/@migueldoctor/spring-cloud-series-spring-cloud-config-server-con-github-paso-a-paso-135d2b4aaf4c)
