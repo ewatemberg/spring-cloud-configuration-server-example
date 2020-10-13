@@ -33,7 +33,7 @@ spring.cloud.config.server.git.uri=https://github.com/ewatemberg/spring-cloud-co
 spring.profiles.active=dev
 ```
 
-![alt text](https://raw.githubusercontent.com/ewatemberg/spring-cloud-configuration-repository/master/doc/img/java-microservices-with-netflix-oss-spring.jpg)
+![alt text](https://raw.githubusercontent.com/ewatemberg/spring-cloud-configuration-server-example/master/doc/img/java-microservices-with-netflix-oss-spring.jpg)
 
 ### Related
 * [Repositorio Configuración Centralizada](https://github.com/ewatemberg/spring-cloud-configuration-repository)
